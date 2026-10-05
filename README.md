@@ -30,3 +30,11 @@ Library-Books-Catalog/
 ├── Main.java
 ├── README.md
 └── .gitignore
+
+LIBRARY BOOKS CATALOG
+
+ID | Title | Author | Available
+--------------------------------
+1 | Harry Potter | J.K. Rowling | Yes
+2 | The Alchemist | Paulo Coelho | No
+3 | Wings of Fire | A.P.J. Abdul Kalam | Yes
