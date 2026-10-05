@@ -1,15 +1,32 @@
-Library Books Catalog: 
-A simple Java-based Library Books Catalog.
+# 📚 Library Books Catalog
 
-Project Description: 
-The Library Books Catalog is a basic application used to maintain and manage information about books in a library.
-The program allows the user to view book details and perform basic operations such as adding, searching, and displaying books.
-This project demonstrates fundamental Java programming concepts and basic Object-Oriented Programming.
+A simple Java-based Library Books Catalog developed as a college assignment.
 
-Objectives: 
-Maintain a catalog of library books.
-Store important book details.
-Search for books easily.
-Display available books.
-Understand basic Java programming and OOP concepts.
-Learn how to manage a project using Git and GitHub.
+## Description
+
+This project is a basic library management program developed using Java and Object-Oriented Programming concepts. It stores book details and displays the books available in the catalog.
+
+## Features
+
+- Add books to the library
+- Display book details
+- Track book availability
+- Store book ID, title, author, and availability
+
+## Technologies Used
+
+- Java
+- Object-Oriented Programming
+- VS Code
+- Git
+- GitHub
+
+## Project Structure
+
+```text
+Library-Books-Catalog/
+├── Book.java
+├── Library.java
+├── Main.java
+├── README.md
+└── .gitignore
