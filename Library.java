@@ -9,7 +9,7 @@ ArrayList<>();
     }
 
     void displayBooks() {
-        System.out.println("\nID | Title | Author");
+        System.out.println("\nID | Title | Author | Available");
 
         System.out.println("---------------------");
 
